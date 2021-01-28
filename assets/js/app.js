@@ -178,7 +178,7 @@ var circleLabels =  chartGroup.selectAll(".labels")
         
         d3.select(this)
         .transition()
-        .duration(200)
+        .duration(1200)
         .ease(d3.easeLinear)
         .style("fill", "pink")
 
