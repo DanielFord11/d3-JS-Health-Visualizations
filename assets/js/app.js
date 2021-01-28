@@ -387,7 +387,6 @@ var circleLabels =  chartGroup.selectAll(".labels")
               .classed("inactive", true);
           }
         }
-
     });
   });
 
